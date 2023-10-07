@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(51, 36, 190);
+    background: rgb(81, 97, 97);
 }
 .app{
     background: #fff;
@@ -70,4 +70,13 @@ body{
     text-align: center;
     margin: 20px auto;
     max-width: 400px;
+}
+.btin{
+    background-color: #0a0a0a; 
+    color: #fff; 
+    font-weight: bold; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
 }

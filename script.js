@@ -4,7 +4,7 @@ const questions = [
       answers: [
         { text: "Roshni", correct: true },
         { text: "Ms Chauhan", correct: true },
-        { text: "Motu", correct: true },
+        { text: "Rajesh Ki Wife", correct: true },
         { text: "Wifey", correct: true},
       ],
     },
@@ -13,7 +13,7 @@ const questions = [
       answers: [
         { text: "Roshni", correct: true },
         { text: "Ms Chauhan", correct: true },
-        { text: "Motu", correct: true },
+        { text: "Rajesh Ki Wife", correct: true },
         { text: "Wifey", correct: true },
       ],
     },
@@ -22,7 +22,7 @@ const questions = [
       answers: [
         { text: "Roshni", correct: true },
         { text: "Ms Chauhan", correct: true },
-        { text: "Motu", correct: true },
+        { text: "Rajesh Ki Wife", correct: true },
         { text: "Wifey", correct: true },
       ],
     },
@@ -31,7 +31,7 @@ const questions = [
       answers: [
         { text: "Roshni", correct: true },
         { text: "Ms Chauhan", correct: true },
-        { text: "Motu", correct: true },
+        { text: "Rajesh Ki Wife", correct: true },
         { text: "Wifey", correct: true },
       ],
     },
@@ -40,7 +40,7 @@ const questions = [
       answers: [
         { text: "Roshni", correct: true },
         { text: "Ms Chauhan", correct: true },
-        { text: "Motu", correct: true },
+        { text: "Rajesh Ki Wife", correct: true },
         { text: "Wifey", correct: true },
       ],
     },
